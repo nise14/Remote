@@ -3,6 +3,7 @@ passwords.txt
 # Estos son comentarios
 log/*.log
 node_modules/
+Productos/
 
 librerias/
 !librerias/archivo_*.md
