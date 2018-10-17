@@ -1,0 +1,8 @@
+passwords.txt
+*.class
+# Estos son comentarios
+log/*.log
+node_modules/
+
+librerias/
+!librerias/archivo_*.md
